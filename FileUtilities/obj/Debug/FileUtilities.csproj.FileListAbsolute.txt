@@ -1,0 +1,5 @@
+c:\users\jose.mad\documents\visual studio 2013\Projects\FileUtilities\FileUtilities\bin\Debug\FileUtilities.dll
+c:\users\jose.mad\documents\visual studio 2013\Projects\FileUtilities\FileUtilities\bin\Debug\FileUtilities.pdb
+c:\users\jose.mad\documents\visual studio 2013\Projects\FileUtilities\FileUtilities\obj\Debug\FileUtilities.dll
+c:\users\jose.mad\documents\visual studio 2013\Projects\FileUtilities\FileUtilities\obj\Debug\FileUtilities.pdb
+c:\users\jose.mad\documents\visual studio 2013\Projects\FileUtilities\FileUtilities\obj\Debug\FileUtilities.csprojResolveAssemblyReference.cache
