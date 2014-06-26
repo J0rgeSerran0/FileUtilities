@@ -19,7 +19,7 @@ fileUtilities.SplitFileBySizeOfFiles(@"C:\Temp\BigFile.txt", 4, FileUtilities.Si
 * The next C# sample, split a large file into 5 files:
 ```csharp
 var fileUtilities = new FileUtilities.Discompose();
-fileUtilities.SplitFileBySizeOfFiles(@"C:\Temp\BigFile.txt", 5);
+fileUtilities.SplitFileByNumberOfFiles(@"C:\Temp\BigFile.txt", 5);
 ```
 * The next C# sample, merge the split files into a file:
 ```csharp
