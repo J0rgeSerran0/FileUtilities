@@ -2,6 +2,8 @@
 
 Utilities written in C# to split and merge large files
 
+## **Note: There is a new version of this code for .NET 5 [(FileCutter)](https://github.com/J0rgeSerran0/FileCutter), with some improvements**
+
 ## Description
 
 This sample show you how split a large file into different files, and how merge all those parts into a single file.
